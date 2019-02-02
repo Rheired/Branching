@@ -1,2 +1,4 @@
 # Branching
-Como ahcer ramas/branches
+Como hacer ramas/branches
+
+Kevin Kaleb Jimenez Orozco.
